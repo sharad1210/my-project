@@ -1,3 +1,2 @@
 # my-project
-web development
-my next website webpage!
+My next website webpage!
